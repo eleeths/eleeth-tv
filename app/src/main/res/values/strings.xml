@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eleeth.com TV</string>
+    <string name="search_hint">Search channels by name or category</string>
+    <string name="tip">Tip</string>
+    <string name="tip_label">Support on Ko-fi</string>
+    <string name="loading">Loading…</string>
+    <string name="empty">No channels match</string>
+    <string name="channel_count">%1$d channels</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="pick_channel">Pick a channel from the list</string>
+</resources>

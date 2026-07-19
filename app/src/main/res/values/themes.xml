@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EleethTV" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#C8A97E</item>
+        <item name="colorOnPrimary">#0D0D12</item>
+        <item name="colorSecondary">#4BE5A5</item>
+        <item name="colorOnSecondary">#0D0D12</item>
+        <item name="android:colorBackground">#0D0D12</item>
+        <item name="colorSurface">#16161E</item>
+        <item name="colorOnSurface">#E8E4DF</item>
+        <item name="android:textColorPrimary">#E8E4DF</item>
+        <item name="android:textColorSecondary">#8A8A9A</item>
+        <item name="android:statusBarColor">#0D0D12</item>
+        <item name="android:navigationBarColor">#0D0D12</item>
+    </style>
+    <style name="Theme.EleethTV.Player" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackground">#000000</item>
+    </style>
+</resources>
