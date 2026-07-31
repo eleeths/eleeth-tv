@@ -64,3 +64,13 @@ The Tip button opens `https://ko-fi.com/eleeth` — a hard-coded link, no API ke
 ## License
 
 Personal project for eleeth.com. All rights reserved.
+
+---
+
+## RGV Services
+
+Looking for **lawyers, safety training, or immigration attorneys** in the Rio Grande Valley?
+
+- [RGV Lawyer Directory](https://eleeth.com/vibe/rgv-lawyers.html) — McAllen, Brownsville, Harlingen, Laredo, Edinburg, and all RGV cities
+- [RGV Safety Training](https://eleeth.com/vibe/rgv-safety.html) — OSHA-certified courses: PEC, H2S, forklift, excavation, fall protection, and more
+- [RGV Immigration](https://eleeth.com/vibe/rgv-immigration.html) — DACA, green card, citizenship, deportation defense throughout South Texas
