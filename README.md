@@ -74,3 +74,14 @@ Looking for **lawyers, safety training, or immigration attorneys** in the Rio Gr
 - [RGV Lawyer Directory](https://eleeth.com/vibe/rgv-lawyers.html) — McAllen, Brownsville, Harlingen, Laredo, Edinburg, and all RGV cities
 - [RGV Safety Training](https://eleeth.com/vibe/rgv-safety.html) — OSHA-certified courses: PEC, H2S, forklift, excavation, fall protection, and more
 - [RGV Immigration](https://eleeth.com/vibe/rgv-immigration.html) — DACA, green card, citizenship, deportation defense throughout South Texas
+
+---
+
+## ❤️ Support the Project
+
+If eleeth TV saves you time or brings value, consider supporting development:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Sponsor-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/eleeths)
+[![Sponsor via PayPal](https://img.shields.io/badge/PayPal-Sponsor-yellow?style=for-the-badge&logo=paypal)](https://www.paypal.me/eleeth)
+
+Every contribution helps keep the project alive and improving.
