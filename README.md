@@ -74,14 +74,3 @@ If eleeth TV saves you time or brings value, consider supporting development:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Sponsor-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/eleeths)
 [![Sponsor via PayPal](https://img.shields.io/badge/KoFi-Sponsor-yellow?style=for-the-badge&logo=paypal)](https://ko-fi.com/eleeth)
-
-Every contribution helps keep the project alive and improving.
-
----
-
-## ❤️ Support the Project
-
-If BlueHoney brings you value, consider supporting development:
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Sponsor-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/eleeths)
-[![Sponsor via PayPal](https://img.shields.io/badge/KoFi-Sponsor-yellow?style=for-the-badge&logo=paypal)](https://ko-fi.com/eleeth)
